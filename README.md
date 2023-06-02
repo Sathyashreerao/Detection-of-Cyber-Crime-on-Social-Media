@@ -46,3 +46,5 @@ Cyber-bullying and cyber-threats utilise computerised equipment and internet-bas
 ### Conclusion ###
 A comprehensive product is developed to setup a system in order protect the young generation from cyber bullying attacks. A real-time application of the developed model has been done. To achieve an effective model for cyberbullying, five machine learning algorithms have been chosen. Based on the accuracies, Logistic Regression algorithm using tfidfVectorizer has outperformed the rest.
 
+### Code Details ###
+_main.py_ has code to be run. _cyberbullting_tweets.csv_ is the dataset obtained from Kagle used to **train and test** the models. _cyber.pkl_ is the model with **highest accuracy** that is _saved_. 
